@@ -1,0 +1,26 @@
+{
+  "name": "imgnx-flip-clock-electron-app",
+  "version": "1.0.0",
+  "description": "Hello World!",
+  "main": "main.js",
+  "author": "Donald Wayne Moore Jr.",
+  "license": "0BSD",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imgnxorg/osx-flip-clock.git"
+  },
+  "keywords": [
+    "flip",
+    "clock",
+    "osx",
+    "electron",
+    "electron-js"
+  ],
+  "bugs": {
+    "url": "https://github.com/imgnxorg/osx-flip-clock/issues"
+  },
+  "homepage": "https://github.com/imgnxorg/osx-flip-clock#readme"
+}
